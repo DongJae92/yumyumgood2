@@ -32,7 +32,7 @@
 [![쿡팡 erd구성](./WebContent/assets/img/erdImg/cookpnagERD2.png)](https://dbdiagram.io/d/642008425758ac5f17242b13)
 
 ## 📌 주요 기능
-#### 관리자 - <a href="https://github.com/DongJae92/mealme/wiki" >상세보기 - WIKI 이동</a>
+#### 마이페이지, 레시피 작성 - <a href="https://github.com/DongJae92/mealme/wiki" >상세보기 - WIKI 이동</a>
 - 관리자 메인 : 고객 관리(일반 회원, 기업 회원), 오늘의 할 일, 일별 매출 현황, 최근 7일, 30일 평균 및 합계
 - 회원 정보 : 기업 회원, 일반 회원 조회 및 관리
 - 상품 주문 : 주문 목록 조회, 수정 및 관리
